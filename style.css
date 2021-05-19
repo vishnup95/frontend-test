@@ -1,0 +1,18 @@
+
+.reversed-str {
+    display: inline-block;
+}
+
+.letter {
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.vowel {
+    font-size: 30px;
+    color: red;
+}
+
+#reset-btn {
+    margin: 10px auto;
+}
